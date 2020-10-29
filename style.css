@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=PT+Serif&family=PT+Serif:ital@0&display=swap');
+
+div.logo {
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    font-size: 128px;
+    padding-top: 100px;
+    margin-bottom: 0px;
+}
+
+div.phrase {
+    font-family: 'Abel', serif;
+    text-align: center;
+    font-size: 32px;
+    margin-top: -20px;
+}
+
+div.contact {
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    margin-top: 64px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
